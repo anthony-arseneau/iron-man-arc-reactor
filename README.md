@@ -1,7 +1,7 @@
 # Iron Man Arc Reactor V2
 
 ## Overview
-The Iron Man Arc Reactor V2 project serves as a successor to the original Arc Reactor V1, developed to evaluate and compare the advancements made over the past four years. This iteration highlights significant improvements in print quality, hardware integration, and software development, showcasing a marked evolution in both design and execution.
+The Iron Man Arc Reactor V2 project serves as a successor to the original Arc Reactor V1, developed to evaluate and compare the advancements made over the previous four years. This iteration highlights significant improvements in print quality, hardware integration, and software development, showcasing a marked evolution in both design and execution.
 
 ![iron_man_arc_reactor](https://github.com/anthony-arseneau/iron-man-arc-reactor/assets/113451630/7f30aedb-23d2-48df-8a0f-31515ee6686e)
 
